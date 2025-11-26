@@ -1,8 +1,10 @@
+venv/
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.vscode/
 .env
-venv/
-ENV/
-node_modules/
 .DS_Store
-*.sqlite
+Thumbs.db
+*.log

@@ -1,7 +1,7 @@
 
 # Weather Search App
 
-A simple weather search engine using Flask backend + OpenWeather API + HTML/CSS/JS frontend.
+A simple weather search engine 
 
 ## Features
 - Search weather by city
@@ -18,6 +18,7 @@ A simple weather search engine using Flask backend + OpenWeather API + HTML/CSS/
 <img width="499" height="571" alt="image" src="https://github.com/user-attachments/assets/887e3e6e-e11e-415c-873a-90c6d681e8bb" />
 
 ## Project Structure
+
 weather_search/
 ├─ backend/
 │   ├─ app.py
@@ -30,7 +31,8 @@ weather_search/
 ├─ .gitignore
 ├─ LICENSE
 ├─ README.md
-└─ weather_service1.py  # optional API key reference
+└─ weather_service1.py  # optional reference for API key (do not commit actual key)
+
 
 Environment / API Key
 
@@ -53,3 +55,4 @@ Open frontend/index.html in your browser
 Make sure backend is running
 
 Enter a city name and click Search to see weather results
+

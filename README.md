@@ -18,22 +18,20 @@ A simple weather search engine
 <img width="499" height="571" alt="image" src="https://github.com/user-attachments/assets/887e3e6e-e11e-415c-873a-90c6d681e8bb" />
 
 ## Project Structure
-
+'''
 weather_search/
 ├─ backend/
-│   ├─ app.py
-│   ├─ weather_service.py
-│   └─ __pycache__/
+│ ├─ app.py
+│ ├─ weather_service.py
 ├─ frontend/
-│   ├─ index.html
-│   ├─ style.css
-│   └─ script.js
+│ ├─ index.html
+│ ├─ style.css
+│ └─ script.js
 ├─ .gitignore
 ├─ LICENSE
 ├─ README.md
-└─ weather_service1.py  # optional reference for API key (do not commit actual key)
-
-
+└─ weather_service1.py # optional API key reference
+'''
 Environment / API Key
 
 The app uses OpenWeather API.
@@ -55,4 +53,5 @@ Open frontend/index.html in your browser
 Make sure backend is running
 
 Enter a city name and click Search to see weather results
+
 

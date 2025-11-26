@@ -32,15 +32,17 @@ weather_search/
 - The app uses **OpenWeather API**.  
 
 ## Run Backend
-cd backend
-pip install -r requirements.txt
-python app.py
+
+- cd backend
+- pip install -r requirements.txt
+- python app.py
 
  Open your browser at:
-  http://127.0.0.1:5000/
+  - http://127.0.0.1:5000/
 
 ## Run Frontend
-# Open frontend/index.html in your browser
-# Make sure the backend server is running
-# Enter a city name and click "Search" to see results
+- Open frontend/index.html in your browser
+- Make sure the backend server is running
+- Enter a city name and click "Search" to see results
+
 
